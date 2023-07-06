@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Admin-UI-ghPages/static/css/main.e6c13ad2.css",
+    "main.js": "/Admin-UI-ghPages/static/js/main.ad4c3752.js",
+    "static/js/787.6335e7d5.chunk.js": "/Admin-UI-ghPages/static/js/787.6335e7d5.chunk.js",
+    "static/media/No User.gif": "/Admin-UI-ghPages/static/media/No User.d2033434d367a7adbd69.gif",
+    "index.html": "/Admin-UI-ghPages/index.html",
+    "main.e6c13ad2.css.map": "/Admin-UI-ghPages/static/css/main.e6c13ad2.css.map",
+    "main.ad4c3752.js.map": "/Admin-UI-ghPages/static/js/main.ad4c3752.js.map",
+    "787.6335e7d5.chunk.js.map": "/Admin-UI-ghPages/static/js/787.6335e7d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.ad4c3752.js"
+  ]
+}
